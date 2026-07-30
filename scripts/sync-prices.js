@@ -3,6 +3,7 @@ const fs = require('fs');
 const STORE_URL = 'https://www.thewoolroom.com/en-gb';
 const HISTORY_FILE = 'price-history.json';
 const VENDOR = 'Woolroom ROW';
+const bundlePattern = /\b(bundle|set|kit|pack|collection)\b/i;
 
 async function fetchAllProducts() {
   let all = [], page = 1;
@@ -32,6 +33,7 @@ async function main() {
 
   for (const p of products) {
     if (p.vendor !== VENDOR) continue;
+    if (bundlePattern.test(p.title)) continue;
 
     for (const v of p.variants) {
       if (!v.sku) continue;
