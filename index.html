@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Price Checker — The Wool Room UK/ROW</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f8f7f4;
+      --surface: #ffffff;
+      --border: #e2ddd8;
+      --text: #1a1814;
+      --muted: #7a746c;
+      --accent: #4a7c59;
+      --up: #c0392b;
+      --down: #27ae60;
+      --tag-bg: #eef5f1;
+      --tag-text: #2d6e45;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px 20px;
+    }
+
+    header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    h1 { font-size: 20px; font-weight: 700; }
+    .subtitle { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .status-bar { font-size: 12px; color: var(--muted); }
+
+    button {
+      cursor: pointer;
+      border: none;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 14px;
+      transition: opacity 0.15s, background 0.15s;
+    }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-primary:hover:not(:disabled) { opacity: 0.88; }
+    .btn-ghost { background: var(--surface); color: var(--text); border: 1px solid var(--border); }
+    .btn-ghost:hover:not(:disabled) { background: var(--bg); }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 220px;
+      max-width: 380px;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: var(--surface);
+      color: var(--text);
+      outline: none;
+    }
+    .search-box:focus { border-color: var(--accent); }
+
+    select {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      outline: none;
+    }
+
+    .stats {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 16px;
+      min-width: 130px;
+    }
+    .stat-value { font-size: 22px; font-weight: 700; line-height: 1.2; }
+    .stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 2px; }
+    .stat-up .stat-value { color: var(--up); }
+    .stat-down .stat-value { color: var(--down); }
+
+    .table-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    table { width: 100%; border-collapse: collapse; }
+
+    thead { background: var(--bg); position: sticky; top: 0; z-index: 1; }
+
+    th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    td { padding: 10px 14px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: var(--bg); }
+
+    .sku {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 12px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      padding: 2px 6px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    .price { font-weight: 600; white-space: nowrap; }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+    .badge-up { background: #fdecea; color: var(--up); }
+    .badge-down { background: #e9f7ef; color: var(--down); }
+    .badge-new { background: #eef4ff; color: #2554c7; }
+
+    .timestamp { font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+    .product-name {
+      max-width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      display: block;
+    }
+    a.product-name { color: inherit; text-decoration: none; }
+    a.product-name:hover { text-decoration: underline; color: var(--accent); }
+
+    .loading-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(248, 247, 244, 0.82);
+      backdrop-filter: blur(2px);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .loading-overlay.visible { display: flex; }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .progress-text { font-size: 13px; color: var(--muted); }
+
+    .error-box {
+      display: none;
+      background: #fdecea;
+      border: 1px solid #f5c6c3;
+      color: var(--up);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+    .error-box.visible { display: block; }
+
+    .empty-state { text-align: center; padding: 60px 20px; color: var(--muted); }
+    .empty-state svg { margin-bottom: 12px; opacity: 0.3; }
+
+    #history-panel {
+      display: none;
+      position: fixed;
+      right: 0; top: 0; bottom: 0;
+      width: 380px;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      z-index: 200;
+      overflow-y: auto;
+      padding: 20px;
+      box-shadow: -4px 0 20px rgba(0,0,0,0.07);
+    }
+    #history-panel.open { display: block; }
+    .history-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+    .history-header h3 { font-size: 15px; font-weight: 600; }
+    .history-list { display: flex; flex-direction: column; gap: 10px; }
+    .history-entry { padding: 10px 12px; background: var(--bg); border-radius: 7px; border: 1px solid var(--border); }
+    .history-entry .he-price { font-weight: 600; font-size: 15px; }
+    .history-entry .he-meta { font-size: 11px; color: var(--muted); margin-top: 2px; }
+    .history-entry .he-delta { float: right; margin-top: 2px; }
+  </style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loading">
+  <div class="spinner"></div>
+  <div class="progress-text" id="progress-text">Loading…</div>
+</div>
+
+<div id="history-panel">
+  <div class="history-header">
+    <h3 id="history-sku-label">Price History</h3>
+    <button class="btn-ghost" onclick="closeHistory()" style="padding:5px 10px">✕ Close</button>
+  </div>
+  <div class="history-list" id="history-list"></div>
+</div>
+
+<div class="wrapper">
+  <header>
+    <div>
+      <h1>Price Checker</h1>
+      <div class="subtitle">The Wool Room — UK/ROW SKUs (Woolroom ROW)</div>
+    </div>
+    <div class="header-actions">
+      <span class="status-bar" id="status-bar">Loading history…</span>
+      <button class="btn-ghost" id="btn-export" onclick="exportCSV()" disabled>Export CSV</button>
+      <button class="btn-ghost" id="btn-clear" onclick="clearHistory()" disabled>Clear History</button>
+      <button class="btn-primary" id="btn-sync" onclick="runSync()" disabled>Sync Prices</button>
+    </div>
+  </header>
+
+  <div class="error-box" id="error-box"></div>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-value" id="stat-total">—</div>
+      <div class="stat-label">Total SKUs</div>
+    </div>
+    <div class="stat stat-up">
+      <div class="stat-value" id="stat-up">—</div>
+      <div class="stat-label">Price Increases</div>
+    </div>
+    <div class="stat stat-down">
+      <div class="stat-value" id="stat-down">—</div>
+      <div class="stat-label">Price Decreases</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-new">—</div>
+      <div class="stat-label">New SKUs</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-changed">—</div>
+      <div class="stat-label">Changed (this sync)</div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <input class="search-box" type="text" id="search" placeholder="Search SKU, product, or variant…" oninput="renderTable()" />
+    <select id="filter-change" onchange="renderTable()">
+      <option value="all">All SKUs</option>
+      <option value="changed">Changed only</option>
+      <option value="up">Price up</option>
+      <option value="down">Price down</option>
+      <option value="new">New SKUs</option>
+    </select>
+    <select id="sort-col" onchange="renderTable()">
+      <option value="sku">Sort: SKU</option>
+      <option value="product">Sort: Product</option>
+      <option value="price">Sort: Price</option>
+      <option value="changed_at">Sort: Last Changed</option>
+      <option value="pct">Sort: % Change</option>
+    </select>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>SKU</th>
+          <th>Product</th>
+          <th>Variant</th>
+          <th>Current Price</th>
+          <th>RRP</th>
+          <th>Change</th>
+          <th>Last Changed</th>
+          <th>History</th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <tr><td colspan="8"><div class="empty-state">
+          <svg width="40" height="40" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+          </svg>
+          <p>Loading shared history…</p>
+        </div></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p style="font-size:11px;color:var(--muted);margin-top:12px;text-align:right" id="row-count"></p>
+</div>
+
+<script>
+const GH_OWNER    = 'the-woolroom';
+const GH_REPO     = 'uk-price-checker';
+const GH_FILE     = 'price-history.json';
+const GH_RAW_URL  = `https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/main/${GH_FILE}`;
+const GH_API_URL  = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_FILE}`;
+const STORE_URL   = 'https://www.thewoolroom.com/en-gb';
+const VENDOR      = 'Woolroom ROW';
+const TOKEN_KEY   = 'wl_gh_token_uk';
+const CURRENCY    = 'GBP';
+
+let rows = [];
+let lastSyncTs = null;
+let ghFileSha = null;
+let cachedHist = {};
+
+(async function init() {
+  document.getElementById('btn-sync').disabled = false;
+  try {
+    setProgress('Loading shared history…');
+    showLoading(true);
+    await loadHistoryFromGitHub();
+  } catch(e) {
+    document.getElementById('status-bar').textContent = 'Could not load history';
+  } finally {
+    showLoading(false);
+  }
+})();
+
+function getOrPromptToken() {
+  let token = localStorage.getItem(TOKEN_KEY);
+  if (!token) {
+    token = prompt('Enter GitHub token to sync prices:');
+    if (!token) return null;
+    localStorage.setItem(TOKEN_KEY, token.trim());
+  }
+  return token;
+}
+
+async function loadHistoryFromGitHub() {
+  const res = await fetch(GH_RAW_URL);
+  if (res.status === 404) { ghFileSha = null; return {}; }
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const content = await res.json();
+  cachedHist = content;
+  if (content._rows) {
+    rows = content._rows;
+    lastSyncTs = rows[0]?.syncTs ?? null;
+    updateStatus();
+    updateStats();
+    renderTable();
+    document.getElementById('btn-export').disabled = false;
+    document.getElementById('btn-clear').disabled  = false;
+  }
+  return content;
+}
+
+async function fetchGhFileSha(token) {
+  const res = await fetch(GH_API_URL, {
+    headers: { 'Accept': 'application/vnd.github.v3+json', 'Authorization': `Bearer ${token}` },
+  });
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+  return (await res.json()).sha;
+}
+
+async function saveHistoryToGitHub(hist, newRows) {
+  const token = localStorage.getItem(TOKEN_KEY);
+  if (!token) throw new Error('No GitHub token — cannot save history.');
+  setProgress('Getting file info from GitHub…');
+  ghFileSha = await fetchGhFileSha(token);
+  const payload = { ...hist, _rows: newRows };
+  const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+  const body = { message: `Price sync ${new Date().toISOString().slice(0,10)}`, content: encoded };
+  if (ghFileSha) body.sha = ghFileSha;
+  const res = await fetch(GH_API_URL, {
+    method: 'PUT',
+    headers: { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.message || `GitHub API ${res.status}`);
+  }
+  ghFileSha = (await res.json()).content.sha;
+}
+
+async function fetchAllProducts() {
+  let all = [], page = 1;
+  while (true) {
+    setProgress(`Fetching page ${page}…`);
+    const res = await fetch(`${STORE_URL}/products.json?limit=250&page=${page}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+    const json = await res.json();
+    if (!json.products?.length) break;
+    all.push(...json.products);
+    if (json.products.length < 250) break;
+    page++;
+  }
+  return all;
+}
+
+async function runSync() {
+  if (!getOrPromptToken()) return;
+  clearError();
+  showLoading(true);
+  document.getElementById('btn-sync').disabled = true;
+  try {
+    setProgress('Loading latest history from GitHub…');
+    const hist = await loadHistoryFromGitHub();
+    setProgress('Fetching products from Shopify…');
+    const products = await fetchAllProducts();
+    setProgress(`Processing ${products.length} products…`);
+    const now = new Date().toISOString();
+    const seenSkus = new Set();
+    const newRows = [];
+
+    for (const p of products) {
+      if (p.vendor !== VENDOR) continue;
+
+      for (const v of p.variants) {
+        if (!v.sku) continue;
+        const sku = v.sku;
+        if (seenSkus.has(sku)) continue;
+        seenSkus.add(sku);
+
+        const priceNum = parseFloat(v.price);
+        const rrpNum   = v.compare_at_price ? parseFloat(v.compare_at_price) : null;
+        const currency = CURRENCY;
+
+        const skuHistory = hist[sku] || [];
+        const rrpHistory = hist[sku + '_rrp'] || [];
+        const prev       = skuHistory[skuHistory.length - 1];
+        const prevPrice  = prev ? prev.price : null;
+        const prevRrp    = rrpHistory.length ? rrpHistory[rrpHistory.length - 1].price : null;
+
+        let changeType = 'same';
+        if (!prev)                     changeType = 'new';
+        else if (priceNum > prevPrice) changeType = 'up';
+        else if (priceNum < prevPrice) changeType = 'down';
+
+        if (changeType !== 'same') {
+          skuHistory.push({ price: priceNum, currency, ts: now });
+          hist[sku] = skuHistory;
+        }
+        if (rrpNum !== null && rrpNum !== prevRrp) {
+          rrpHistory.push({ price: rrpNum, currency, ts: now });
+          hist[sku + '_rrp'] = rrpHistory;
+        }
+
+        const changedAt = changeType !== 'same'
+          ? now
+          : (skuHistory.length > 0 ? skuHistory[skuHistory.length - 1].ts : now);
+
+        const prevForPct = skuHistory.length > 1 ? skuHistory[skuHistory.length - 2].price : null;
+        const lastPrice  = skuHistory.length > 0 ? skuHistory[skuHistory.length - 1].price : priceNum;
+        const pct = (prevForPct && prevForPct !== 0)
+          ? ((lastPrice - prevForPct) / prevForPct * 100)
+          : null;
+
+        let lastChangeType = changeType;
+        if (changeType === 'same' && skuHistory.length > 1) {
+          const a = skuHistory[skuHistory.length - 2].price;
+          const b = skuHistory[skuHistory.length - 1].price;
+          lastChangeType = b > a ? 'up' : b < a ? 'down' : 'same';
+        }
+
+        const url = `${STORE_URL}/products/${p.handle}?variant=${v.id}`;
+
+        newRows.push({ sku, product: p.title, variant: v.title === 'Default Title' ? '' : v.title,
+          price: priceNum, rrp: rrpNum, currency, prevPrice, changeType: lastChangeType, pct, changedAt, syncTs: now,
+          handle: p.handle, variantId: v.id, url });
+      }
+    }
+
+    setProgress('Saving history to GitHub…');
+    await saveHistoryToGitHub(hist, newRows);
+    cachedHist = hist;
+    rows = newRows;
+    lastSyncTs = now;
+    updateStatus();
+    updateStats();
+    renderTable();
+    document.getElementById('btn-export').disabled = false;
+    document.getElementById('btn-clear').disabled  = false;
+  } catch (err) {
+    showError(`Sync failed: ${err.message}`);
+  } finally {
+    showLoading(false);
+    document.getElementById('btn-sync').disabled = false;
+  }
+}
+
+async function clearHistory() {
+  const pwd = prompt('Enter password to clear history:');
+  if (pwd === null) return;
+  if (pwd !== 'woolroom2026') { alert('Incorrect password.'); return; }
+  showLoading(true);
+  setProgress('Clearing history on GitHub…');
+  try {
+    await saveHistoryToGitHub({}, []);
+    rows = [];
+    lastSyncTs = null;
+    updateStatus();
+    updateStats();
+    renderTable();
+    document.getElementById('btn-export').disabled = true;
+    document.getElementById('btn-clear').disabled  = true;
+  } catch(err) {
+    showError(`Clear failed: ${err.message}`);
+  } finally {
+    showLoading(false);
+  }
+}
+
+function renderTable() {
+  const q      = document.getElementById('search').value.toLowerCase();
+  const filter = document.getElementById('filter-change').value;
+  const sort   = document.getElementById('sort-col').value;
+
+  let data = rows.filter(r => {
+    if (q && !`${r.sku} ${r.product} ${r.variant}`.toLowerCase().includes(q)) return false;
+    if (filter === 'changed') return r.changeType !== 'same';
+    if (filter !== 'all')     return r.changeType === filter;
+    return true;
+  });
+
+  data.sort((a, b) => {
+    if (sort === 'sku')        return a.sku.localeCompare(b.sku);
+    if (sort === 'product')    return a.product.localeCompare(b.product);
+    if (sort === 'price')      return b.price - a.price;
+    if (sort === 'changed_at') return new Date(b.changedAt) - new Date(a.changedAt);
+    if (sort === 'pct')        return Math.abs(b.pct ?? 0) - Math.abs(a.pct ?? 0);
+    return 0;
+  });
+
+  const tbody = document.getElementById('table-body');
+  if (!data.length) {
+    tbody.innerHTML = `<tr><td colspan="8"><div class="empty-state"><p>${
+      rows.length ? 'No rows match your filter.' : 'No data yet. Click <strong>Sync Prices</strong> to get started.'
+    }</p></div></td></tr>`;
+    document.getElementById('row-count').textContent = '';
+    return;
+  }
+
+  tbody.innerHTML = data.map(r => `<tr>
+    <td><span class="sku">${esc(r.sku)}</span></td>
+    <td>${r.url
+      ? `<a class="product-name" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.product)}</a>`
+      : `<div class="product-name" title="${esc(r.product)}">${esc(r.product)}</div>`}</td>
+    <td>${esc(r.variant || '—')}</td>
+    <td class="price">${fmt(r.price, r.currency)}</td>
+    <td>${r.rrp != null ? fmt(r.rrp, r.currency) : '—'}</td>
+    <td>${changeBadge(r.changeType, r.pct)}</td>
+    <td class="timestamp">${fmtTs(r.changedAt)}</td>
+    <td><button class="btn-ghost" style="padding:4px 9px;font-size:12px"
+          onclick="openHistory('${esc(r.sku)}')">View</button></td>
+  </tr>`).join('');
+
+  document.getElementById('row-count').textContent = `Showing ${data.length} of ${rows.length} SKUs`;
+}
+
+function changeBadge(type, pct) {
+  if (type === 'same') return '';
+  if (type === 'new')  return `<span class="badge badge-new">NEW</span>`;
+  const arrow = type === 'up' ? '↑' : '↓';
+  const cls   = type === 'up' ? 'badge-up' : 'badge-down';
+  const label = pct != null ? `${arrow} ${Math.abs(pct).toFixed(1)}%` : arrow;
+  return `<span class="badge ${cls}">${label}</span>`;
+}
+
+async function openHistory(sku) {
+  document.getElementById('history-sku-label').textContent = sku;
+  const list = document.getElementById('history-list');
+  document.getElementById('history-panel').classList.add('open');
+  try {
+    const priceEntries = cachedHist[sku] || [];
+    const rrpEntries   = cachedHist[sku + '_rrp'] || [];
+    if (!priceEntries.length && !rrpEntries.length) {
+      list.innerHTML = '<p style="color:var(--muted);font-size:13px">No history recorded yet.</p>';
+      return;
+    }
+    function renderSection(entries, label) {
+      if (!entries.length) return `<p style="color:var(--muted);font-size:12px">No ${label.toLowerCase()} changes recorded yet.</p>`;
+      return [...entries].reverse().map((e, i, arr) => {
+        const prev = arr[i + 1];
+        const delta = prev ? ((e.price - prev.price) / prev.price * 100) : null;
+        const deltaEl = delta != null
+          ? `<span class="badge he-delta ${delta > 0 ? 'badge-up' : 'badge-down'}">${delta > 0 ? '↑' : '↓'} ${Math.abs(delta).toFixed(1)}%</span>`
+          : `<span class="badge badge-new he-delta">First recorded</span>`;
+        return `<div class="history-entry">
+          ${deltaEl}
+          <div class="he-price">${fmt(e.price, e.currency)}</div>
+          <div class="he-meta">${fmtTs(e.ts)}</div>
+        </div>`;
+      }).join('');
+    }
+    list.innerHTML = `
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted);margin-bottom:8px">Price History</div>
+      ${renderSection(priceEntries, 'Price')}
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted);margin-top:16px;margin-bottom:8px">RRP History</div>
+      ${renderSection(rrpEntries, 'RRP')}
+    `;
+  } catch(e) {
+    list.innerHTML = '<p style="color:var(--muted);font-size:13px">Could not load history.</p>';
+  }
+}
+
+function closeHistory() {
+  document.getElementById('history-panel').classList.remove('open');
+}
+
+function updateStats() {
+  const total = rows.length;
+  document.getElementById('stat-total').textContent   = total || '—';
+  document.getElementById('stat-up').textContent      = rows.filter(r => r.changeType === 'up').length   || (total ? '0' : '—');
+  document.getElementById('stat-down').textContent    = rows.filter(r => r.changeType === 'down').length  || (total ? '0' : '—');
+  document.getElementById('stat-new').textContent     = rows.filter(r => r.changeType === 'new').length   || (total ? '0' : '—');
+  document.getElementById('stat-changed').textContent = rows.filter(r => r.changeType !== 'same').length  || (total ? '0' : '—');
+}
+
+function updateStatus() {
+  document.getElementById('status-bar').textContent = lastSyncTs
+    ? `Last synced: ${fmtTs(lastSyncTs)}`
+    : 'No sync data yet';
+}
+
+function exportCSV() {
+  const header = ['SKU','Product','Variant','Current Price','RRP','Currency','Change','% Change','Last Changed'];
+  const lines  = [header.join(',')];
+  for (const r of rows) {
+    lines.push([
+      csvCell(r.sku), csvCell(r.product), csvCell(r.variant),
+      r.price, r.rrp ?? '', r.currency, r.changeType,
+      r.pct != null ? r.pct.toFixed(2) : '', r.changedAt,
+    ].join(','));
+  }
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([lines.join('\n')], { type: 'text/csv' }));
+  a.download = `uk-prices-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+}
+
+function csvCell(v) {
+  const s = String(v ?? '');
+  return s.includes(',') || s.includes('"') || s.includes('\n') ? `"${s.replace(/"/g,'""')}"` : s;
+}
+
+function fmt(price, currency = 'GBP') {
+  return new Intl.NumberFormat('en-GB', { style: 'currency', currency }).format(price);
+}
+function fmtTs(ts) {
+  return new Intl.DateTimeFormat('en-GB', {
+    month: 'short', day: 'numeric', year: 'numeric',
+    hour: 'numeric', minute: '2-digit', hour12: true, timeZoneName: 'short',
+  }).format(new Date(ts));
+}
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function showLoading(v)   { document.getElementById('loading').classList.toggle('visible', v); }
+function setProgress(msg) { document.getElementById('progress-text').textContent = msg; }
+function showError(msg)   { const b = document.getElementById('error-box'); b.textContent = msg; b.classList.add('visible'); }
+function clearError()     { document.getElementById('error-box').classList.remove('visible'); }
+</script>
+</body>
+</html>
