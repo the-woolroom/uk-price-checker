@@ -462,11 +462,13 @@ async function runSync() {
     const products = await fetchAllProducts();
     setProgress(`Processing ${products.length} products…`);
     const now = new Date().toISOString();
+    const bundlePattern = /\b(bundle|set|kit|pack|collection)\b/i;
     const seenSkus = new Set();
     const newRows = [];
 
     for (const p of products) {
       if (p.vendor !== VENDOR) continue;
+      if (bundlePattern.test(p.title)) continue;
 
       for (const v of p.variants) {
         if (!v.sku) continue;
