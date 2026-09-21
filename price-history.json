@@ -11,7 +11,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "storaway-divan-king-150x200cm-dark-grey-seconds",
       "variantId": 56237228458369,
       "url": "https://www.thewoolroom.com/en-gb/products/storaway-divan-king-150x200cm-dark-grey-seconds?variant=56237228458369"
@@ -27,7 +27,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "sophia-sprung-bedstead-king-150x200cm-country-oak-feet-moon-earth-sage-u1116-bf23-seconds",
       "variantId": 56237175669121,
       "url": "https://www.thewoolroom.com/en-gb/products/sophia-sprung-bedstead-king-150x200cm-country-oak-feet-moon-earth-sage-u1116-bf23-seconds?variant=56237175669121"
@@ -43,7 +43,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "audley-divan-double-135x190cm-hemlock-seconds",
       "variantId": 56237125566849,
       "url": "https://www.thewoolroom.com/en-gb/products/audley-divan-double-135x190cm-hemlock-seconds?variant=56237125566849"
@@ -52,14 +52,14 @@
       "sku": "MLISST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Single (w90xl190 cm) / Soft / No",
-      "price": 3309,
+      "price": 2481.75,
       "rrp": 3309,
       "currency": "GBP",
       "prevPrice": 3309,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732907905,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732907905"
@@ -68,14 +68,14 @@
       "sku": "MLISRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Single (w90xl190 cm) / Regular / No",
-      "price": 3309,
+      "price": 2481.75,
       "rrp": 3309,
       "currency": "GBP",
       "prevPrice": 3309,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640403841,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640403841"
@@ -84,14 +84,14 @@
       "sku": "MLISFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Single (w90xl190 cm) / Firm / No",
-      "price": 3309,
+      "price": 2481.75,
       "rrp": 3309,
       "currency": "GBP",
       "prevPrice": 3309,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640436609,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640436609"
@@ -100,14 +100,14 @@
       "sku": "MLIDST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Double (w135xl190 cm) / Soft / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732645761,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732645761"
@@ -116,14 +116,14 @@
       "sku": "MLIDRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Double (w135xl190 cm) / Regular / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640338305,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640338305"
@@ -132,14 +132,14 @@
       "sku": "MLIDFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Double (w135xl190 cm) / Firm / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640371073,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640371073"
@@ -148,14 +148,14 @@
       "sku": "MLIKST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "King (w150xl200 cm) / Soft / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732776833,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732776833"
@@ -164,14 +164,14 @@
       "sku": "MLIKRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "King (w150xl200 cm) / Regular / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 54397775118721,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=54397775118721"
@@ -180,14 +180,14 @@
       "sku": "MLIKFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "King (w150xl200 cm) / Firm / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 54397775708545,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=54397775708545"
@@ -196,14 +196,14 @@
       "sku": "MLISKST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Soft / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733038977,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733038977"
@@ -212,14 +212,14 @@
       "sku": "MLISKZLST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Soft / Yes",
-      "price": 7169,
+      "price": 5376.75,
       "rrp": 7169,
       "currency": "GBP",
       "prevPrice": 7169,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733071745,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733071745"
@@ -228,14 +228,14 @@
       "sku": "MLISKRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Regular / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640469377,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640469377"
@@ -244,14 +244,14 @@
       "sku": "MLISKZLRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Regular / Yes",
-      "price": 7169,
+      "price": 5376.75,
       "rrp": 7169,
       "currency": "GBP",
       "prevPrice": 7169,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733104513,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733104513"
@@ -260,14 +260,14 @@
       "sku": "MLISKFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Firm / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640502145,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640502145"
@@ -276,14 +276,14 @@
       "sku": "MLISKZLFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Superking (w180xl200 cm) / Firm / Yes",
-      "price": 7169,
+      "price": 5376.75,
       "rrp": 7169,
       "currency": "GBP",
       "prevPrice": 7169,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733137281,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733137281"
@@ -292,14 +292,14 @@
       "sku": "MLIEST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Soft / No",
-      "price": 7719,
+      "price": 5789.25,
       "rrp": 7719,
       "currency": "GBP",
       "prevPrice": 7719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952486273,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952486273"
@@ -308,14 +308,14 @@
       "sku": "MLIEZLST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Soft / Yes",
-      "price": 8719,
+      "price": 6539.25,
       "rrp": 8719,
       "currency": "GBP",
       "prevPrice": 8719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952519041,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952519041"
@@ -324,14 +324,14 @@
       "sku": "MLIERT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Regular / No",
-      "price": 7719,
+      "price": 5789.25,
       "rrp": 7719,
       "currency": "GBP",
       "prevPrice": 7719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952551809,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952551809"
@@ -340,14 +340,14 @@
       "sku": "MLIEZLRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Regular / Yes",
-      "price": 8719,
+      "price": 6539.25,
       "rrp": 8719,
       "currency": "GBP",
       "prevPrice": 8719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952584577,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952584577"
@@ -356,14 +356,14 @@
       "sku": "MLIEFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Firm / No",
-      "price": 7719,
+      "price": 5789.25,
       "rrp": 7719,
       "currency": "GBP",
       "prevPrice": 7719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952617345,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952617345"
@@ -372,14 +372,14 @@
       "sku": "MLIEZLFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Emperor (w200xl200 cm) / Firm / Yes",
-      "price": 8719,
+      "price": 6539.25,
       "rrp": 8719,
       "currency": "GBP",
       "prevPrice": 8719,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952650113,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952650113"
@@ -388,14 +388,14 @@
       "sku": "MLISDST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Small Double (w120xl190 cm) / Soft / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957139329,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957139329"
@@ -404,14 +404,14 @@
       "sku": "MLISDRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Small Double (w120xl190 cm) / Regular / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957204865,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957204865"
@@ -420,14 +420,14 @@
       "sku": "MLISDFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Small Double (w120xl190 cm) / Firm / No",
-      "price": 4529,
+      "price": 3396.75,
       "rrp": 4529,
       "currency": "GBP",
       "prevPrice": 4529,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957270401,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957270401"
@@ -436,14 +436,14 @@
       "sku": "MLIEDST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro Double (w140xl200 cm) / Soft / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236962972033,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236962972033"
@@ -452,14 +452,14 @@
       "sku": "MLIEDRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro Double (w140xl200 cm) / Regular / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236963037569,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236963037569"
@@ -468,14 +468,14 @@
       "sku": "MLIEDFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro Double (w140xl200 cm) / Firm / No",
-      "price": 4969,
+      "price": 3726.75,
       "rrp": 4969,
       "currency": "GBP",
       "prevPrice": 4969,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236963103105,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236963103105"
@@ -484,14 +484,14 @@
       "sku": "MLIEKST",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro King (w160xl200 cm) / Soft / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968051073,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968051073"
@@ -500,14 +500,14 @@
       "sku": "MLIEKRT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro King (w160xl200 cm) / Regular / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968116609,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968116609"
@@ -516,14 +516,14 @@
       "sku": "MLIEKFT",
       "product": "Lindisfarne Wool Mattress",
       "variant": "Euro King (w160xl200 cm) / Firm / No",
-      "price": 5849,
+      "price": 4386.75,
       "rrp": 5849,
       "currency": "GBP",
       "prevPrice": 5849,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968182145,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968182145"
@@ -539,7 +539,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054717940097,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054717940097"
@@ -555,7 +555,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054717972865,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054717972865"
@@ -571,7 +571,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054718005633,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054718005633"
@@ -587,7 +587,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054718038401,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054718038401"
@@ -603,7 +603,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054812410241,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054812410241"
@@ -619,7 +619,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054812443009,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054812443009"
@@ -628,14 +628,14 @@
       "sku": "BLM007MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Single (90cmx190cm)",
-      "price": 79.99,
+      "price": 59.99,
       "rrp": 79.99,
       "currency": "GBP",
       "prevPrice": 79.99,
-      "changeType": "up",
-      "pct": 33.33888981496915,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.003125390673826,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617791361,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617791361"
@@ -644,14 +644,14 @@
       "sku": "BLM008MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Double (135cmx190cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617824129,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617824129"
@@ -660,14 +660,14 @@
       "sku": "BLM009MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (150cmx200cm)",
-      "price": 104.99,
+      "price": 78.74,
       "rrp": 104.99,
       "currency": "GBP",
       "prevPrice": 104.99,
-      "changeType": "up",
-      "pct": 33.33756667513335,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002381179159922,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617856897,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617856897"
@@ -676,14 +676,14 @@
       "sku": "BLM010MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Superking (180cmx200cm)",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617889665,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617889665"
@@ -692,14 +692,14 @@
       "sku": "BLM007CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / Single (90cmx190cm)",
-      "price": 79.99,
+      "price": 59.99,
       "rrp": 79.99,
       "currency": "GBP",
       "prevPrice": 79.99,
-      "changeType": "up",
-      "pct": 33.33888981496915,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.003125390673826,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617037697,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617037697"
@@ -708,14 +708,14 @@
       "sku": "BLM008CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / Double (135cmx190cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617070465,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617070465"
@@ -724,14 +724,14 @@
       "sku": "BLM009CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / King (150cmx200cm)",
-      "price": 104.99,
+      "price": 78.74,
       "rrp": 104.99,
       "currency": "GBP",
       "prevPrice": 104.99,
-      "changeType": "up",
-      "pct": 33.33756667513335,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002381179159922,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617103233,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617103233"
@@ -740,14 +740,14 @@
       "sku": "BLM010CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / Superking (180cmx200cm)",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617136001,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617136001"
@@ -756,14 +756,14 @@
       "sku": "50009GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / Single (90cmx190cm)",
-      "price": 47.99,
+      "price": 35.99,
       "rrp": 47.99,
       "currency": "GBP",
       "prevPrice": 47.99,
-      "changeType": "up",
-      "pct": 33.3425951653237,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.005209418628883,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909216129,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909216129"
@@ -772,14 +772,14 @@
       "sku": "50010GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / Double (135cmx190cm)",
-      "price": 59.99,
+      "price": 44.99,
       "rrp": 59.99,
       "currency": "GBP",
       "prevPrice": 59.99,
-      "changeType": "up",
-      "pct": 33.34074238719715,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00416736122687,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909248897,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909248897"
@@ -788,14 +788,14 @@
       "sku": "50011GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / King (150cmx200cm)",
-      "price": 64.99,
+      "price": 48.74,
       "rrp": 64.99,
       "currency": "GBP",
       "prevPrice": 64.99,
-      "changeType": "up",
-      "pct": 33.34017234304471,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00384674565317,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909281665,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909281665"
@@ -804,14 +804,14 @@
       "sku": "50012GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / Superking (180cmx200cm)",
-      "price": 69.99,
+      "price": 52.49,
       "rrp": 69.99,
       "currency": "GBP",
       "prevPrice": 69.99,
-      "changeType": "up",
-      "pct": 33.33968374928556,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.003571938848403,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909314433,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909314433"
@@ -820,14 +820,14 @@
       "sku": "50000GCH",
       "product": "Arinta Organic Cotton Pillow Case - Charcoal",
       "variant": "Charcoal / Standard (50cmx75cm)",
-      "price": 12.99,
+      "price": 9.74,
       "rrp": 12.99,
       "currency": "GBP",
       "prevPrice": 12.99,
-      "changeType": "up",
-      "pct": 33.36755646817248,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.01924557351809,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-pillow-case-charcoal",
       "variantId": 55756442960257,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-charcoal?variant=55756442960257"
@@ -836,14 +836,14 @@
       "sku": "50002GCH",
       "product": "Arinta Organic Cotton Pillow Case - Charcoal",
       "variant": "Charcoal / King (50cmx90cm)",
-      "price": 13.99,
+      "price": 10.49,
       "rrp": 13.99,
       "currency": "GBP",
       "prevPrice": 13.99,
-      "changeType": "up",
-      "pct": 33.36510962821735,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.017869907076484,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-pillow-case-charcoal",
       "variantId": 55756442993025,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-charcoal?variant=55756442993025"
@@ -852,14 +852,14 @@
       "sku": "BLM007LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / Single (90cmx190cm)",
-      "price": 79.99,
+      "price": 59.99,
       "rrp": 79.99,
       "currency": "GBP",
       "prevPrice": 79.99,
-      "changeType": "up",
-      "pct": 33.33888981496915,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.003125390673826,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618348417,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618348417"
@@ -868,14 +868,14 @@
       "sku": "BLM008LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / Double (135cmx190cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618381185,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618381185"
@@ -884,14 +884,14 @@
       "sku": "BLM009LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / King (150cmx200cm)",
-      "price": 104.99,
+      "price": 78.74,
       "rrp": 104.99,
       "currency": "GBP",
       "prevPrice": 104.99,
-      "changeType": "up",
-      "pct": 33.33756667513335,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002381179159922,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618413953,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618413953"
@@ -900,14 +900,14 @@
       "sku": "BLM010LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / Superking (180cmx200cm)",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618446721,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618446721"
@@ -916,14 +916,14 @@
       "sku": "BLM001LA",
       "product": "Mariana Linen Blend Pillow Case - Latte",
       "variant": "Latte / Standard (50cmx75cm)",
-      "price": 19.99,
+      "price": 14.99,
       "rrp": 19.99,
       "currency": "GBP",
       "prevPrice": 19.99,
-      "changeType": "up",
-      "pct": 33.35557038025349,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.012506253126553,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-latte",
       "variantId": 55757592985985,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-latte?variant=55757592985985"
@@ -932,14 +932,14 @@
       "sku": "BLM002LA",
       "product": "Mariana Linen Blend Pillow Case - Latte",
       "variant": "Latte / King (50cmx90cm)",
-      "price": 22.99,
+      "price": 17.24,
       "rrp": 22.99,
       "currency": "GBP",
       "prevPrice": 22.99,
-      "changeType": "up",
-      "pct": 33.35266821345708,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.01087429317095,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-latte",
       "variantId": 55757593018753,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-latte?variant=55757593018753"
@@ -948,14 +948,14 @@
       "sku": "BLM001MB",
       "product": "Mariana Linen Blend Pillow Case - Midnight Blue",
       "variant": "Midnight Blue / Standard (50cmx75cm)",
-      "price": 19.99,
+      "price": 14.99,
       "rrp": 19.99,
       "currency": "GBP",
       "prevPrice": 19.99,
-      "changeType": "up",
-      "pct": 33.35557038025349,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.012506253126553,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-midnight-blue",
       "variantId": 55757590593921,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-midnight-blue?variant=55757590593921"
@@ -964,14 +964,14 @@
       "sku": "BLM002MB",
       "product": "Mariana Linen Blend Pillow Case - Midnight Blue",
       "variant": "Midnight Blue / King (50cmx90cm)",
-      "price": 22.99,
+      "price": 17.24,
       "rrp": 22.99,
       "currency": "GBP",
       "prevPrice": 22.99,
-      "changeType": "up",
-      "pct": 33.35266821345708,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.01087429317095,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-midnight-blue",
       "variantId": 55757590626689,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-midnight-blue?variant=55757590626689"
@@ -980,14 +980,14 @@
       "sku": "BLM001CW",
       "product": "Mariana Linen Blend Pillow Case - Cloud White",
       "variant": "Cloud White / Standard (50cmx75cm)",
-      "price": 19.99,
+      "price": 14.99,
       "rrp": 19.99,
       "currency": "GBP",
       "prevPrice": 19.99,
-      "changeType": "up",
-      "pct": 33.35557038025349,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.012506253126553,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-cloud-white",
       "variantId": 55757535478145,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-cloud-white?variant=55757535478145"
@@ -996,14 +996,14 @@
       "sku": "BLM002CW",
       "product": "Mariana Linen Blend Pillow Case - Cloud White",
       "variant": "Cloud White / King (50cmx90cm)",
-      "price": 22.99,
+      "price": 17.24,
       "rrp": 22.99,
       "currency": "GBP",
       "prevPrice": 22.99,
-      "changeType": "up",
-      "pct": 33.35266821345708,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.01087429317095,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-pillow-case-cloud-white",
       "variantId": 55757535510913,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-cloud-white?variant=55757535510913"
@@ -1012,14 +1012,14 @@
       "sku": "50009GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Single (90cmx190cm)",
-      "price": 47.99,
+      "price": 35.99,
       "rrp": 47.99,
       "currency": "GBP",
       "prevPrice": 47.99,
-      "changeType": "up",
-      "pct": 33.3425951653237,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.005209418628883,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766773633,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766773633"
@@ -1028,14 +1028,14 @@
       "sku": "50010GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Double (135cmx190cm)",
-      "price": 59.99,
+      "price": 44.99,
       "rrp": 59.99,
       "currency": "GBP",
       "prevPrice": 59.99,
-      "changeType": "up",
-      "pct": 33.34074238719715,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00416736122687,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766806401,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766806401"
@@ -1044,14 +1044,14 @@
       "sku": "50011GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (150cmx200cm)",
-      "price": 64.99,
+      "price": 48.74,
       "rrp": 64.99,
       "currency": "GBP",
       "prevPrice": 64.99,
-      "changeType": "up",
-      "pct": 33.34017234304471,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00384674565317,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766839169,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766839169"
@@ -1060,14 +1060,14 @@
       "sku": "50012GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Superking (180cmx200cm)",
-      "price": 69.99,
+      "price": 52.49,
       "rrp": 69.99,
       "currency": "GBP",
       "prevPrice": 69.99,
-      "changeType": "up",
-      "pct": 33.33968374928556,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.003571938848403,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766871937,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766871937"
@@ -1076,14 +1076,14 @@
       "sku": "50000GMB",
       "product": "Arinta Organic Cotton Pillow Case - Midnight Blue",
       "variant": "Midnight Blue / Standard (50cmx75cm)",
-      "price": 12.99,
+      "price": 9.74,
       "rrp": 12.99,
       "currency": "GBP",
       "prevPrice": 12.99,
-      "changeType": "up",
-      "pct": 33.36755646817248,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.01924557351809,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-pillow-case-midnight-blue",
       "variantId": 55756325126529,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-midnight-blue?variant=55756325126529"
@@ -1092,14 +1092,14 @@
       "sku": "50002GMB",
       "product": "Arinta Organic Cotton Pillow Case - Midnight Blue",
       "variant": "Midnight Blue / King (50cmx90cm)",
-      "price": 13.99,
+      "price": 10.49,
       "rrp": 13.99,
       "currency": "GBP",
       "prevPrice": 13.99,
-      "changeType": "up",
-      "pct": 33.36510962821735,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.017869907076484,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-pillow-case-midnight-blue",
       "variantId": 55756325159297,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-midnight-blue?variant=55756325159297"
@@ -1108,14 +1108,14 @@
       "sku": "BLM003LA",
       "product": "Mariana Linen Blend Duvet Cover - Latte",
       "variant": "Latte / Single (137cmx200cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600358785,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600358785"
@@ -1124,14 +1124,14 @@
       "sku": "BLM004LA",
       "product": "Mariana Linen Blend Duvet Cover - Latte",
       "variant": "Latte / Double (200cmx200cm)",
-      "price": 144.99,
+      "price": 108.74,
       "rrp": 144.99,
       "currency": "GBP",
       "prevPrice": 144.99,
-      "changeType": "up",
-      "pct": 33.3363987493103,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00172425684531,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600391553,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600391553"
@@ -1140,14 +1140,14 @@
       "sku": "BLM005LA",
       "product": "Mariana Linen Blend Duvet Cover - Latte",
       "variant": "Latte / King (220cmx225cm)",
-      "price": 159.99,
+      "price": 119.99,
       "rrp": 159.99,
       "currency": "GBP",
       "prevPrice": 159.99,
-      "changeType": "up",
-      "pct": 33.33611134261189,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.001562597662364,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600424321,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600424321"
@@ -1156,14 +1156,14 @@
       "sku": "BLM006LA",
       "product": "Mariana Linen Blend Duvet Cover - Latte",
       "variant": "Latte / Superking (220cmx260cm)",
-      "price": 184.99,
+      "price": 138.74,
       "rrp": 184.99,
       "currency": "GBP",
       "prevPrice": 184.99,
-      "changeType": "up",
-      "pct": 33.33573590889433,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00135142440132,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600457089,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600457089"
@@ -1172,14 +1172,14 @@
       "sku": "BLM003MB",
       "product": "Mariana Linen Blend Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Single (137cmx200cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598589313,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598589313"
@@ -1188,14 +1188,14 @@
       "sku": "BLM004MB",
       "product": "Mariana Linen Blend Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Double (200cmx200cm)",
-      "price": 144.99,
+      "price": 108.74,
       "rrp": 144.99,
       "currency": "GBP",
       "prevPrice": 144.99,
-      "changeType": "up",
-      "pct": 33.3363987493103,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00172425684531,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598622081,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598622081"
@@ -1204,14 +1204,14 @@
       "sku": "BLM005MB",
       "product": "Mariana Linen Blend Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / King (220cmx225cm)",
-      "price": 159.99,
+      "price": 119.99,
       "rrp": 159.99,
       "currency": "GBP",
       "prevPrice": 159.99,
-      "changeType": "up",
-      "pct": 33.33611134261189,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.001562597662364,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598654849,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598654849"
@@ -1220,14 +1220,14 @@
       "sku": "BLM006MB",
       "product": "Mariana Linen Blend Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Superking (220cmx260cm)",
-      "price": 184.99,
+      "price": 138.74,
       "rrp": 184.99,
       "currency": "GBP",
       "prevPrice": 184.99,
-      "changeType": "up",
-      "pct": 33.33573590889433,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00135142440132,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598687617,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598687617"
@@ -1236,14 +1236,14 @@
       "sku": "BLM003CW",
       "product": "Mariana Linen Blend Duvet Cover - Cloud White",
       "variant": "Cloud White / Single (137cmx200cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596295553,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596295553"
@@ -1252,14 +1252,14 @@
       "sku": "BLM004CW",
       "product": "Mariana Linen Blend Duvet Cover - Cloud White",
       "variant": "Cloud White / Double (200cmx200cm)",
-      "price": 144.99,
+      "price": 108.74,
       "rrp": 144.99,
       "currency": "GBP",
       "prevPrice": 144.99,
-      "changeType": "up",
-      "pct": 33.3363987493103,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00172425684531,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596328321,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596328321"
@@ -1268,14 +1268,14 @@
       "sku": "BLM005CW",
       "product": "Mariana Linen Blend Duvet Cover - Cloud White",
       "variant": "Cloud White / King (220cmx225cm)",
-      "price": 159.99,
+      "price": 119.99,
       "rrp": 159.99,
       "currency": "GBP",
       "prevPrice": 159.99,
-      "changeType": "up",
-      "pct": 33.33611134261189,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.001562597662364,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596361089,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596361089"
@@ -1284,14 +1284,14 @@
       "sku": "BLM006CW",
       "product": "Mariana Linen Blend Duvet Cover - Cloud White",
       "variant": "Cloud White / Superking (220cmx260cm)",
-      "price": 184.99,
+      "price": 138.74,
       "rrp": 184.99,
       "currency": "GBP",
       "prevPrice": 184.99,
-      "changeType": "up",
-      "pct": 33.33573590889433,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00135142440132,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596393857,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596393857"
@@ -1300,14 +1300,14 @@
       "sku": "50019GCH",
       "product": "Arinta Organic Cotton Duvet Cover - Charcoal",
       "variant": "Charcoal / Single (137cmx200cm)",
-      "price": 59.99,
+      "price": 44.99,
       "rrp": 59.99,
       "currency": "GBP",
       "prevPrice": 59.99,
-      "changeType": "up",
-      "pct": 33.34074238719715,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00416736122687,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494897537,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494897537"
@@ -1316,14 +1316,14 @@
       "sku": "50020GCH",
       "product": "Arinta Organic Cotton Duvet Cover - Charcoal",
       "variant": "Charcoal / Double (200cmx200cm)",
-      "price": 89.99,
+      "price": 67.49,
       "rrp": 89.99,
       "currency": "GBP",
       "prevPrice": 89.99,
-      "changeType": "up",
-      "pct": 33.33827233664247,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002778086454054,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494930305,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494930305"
@@ -1332,14 +1332,14 @@
       "sku": "50021GCH",
       "product": "Arinta Organic Cotton Duvet Cover - Charcoal",
       "variant": "Charcoal / King (220cmx225cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494963073,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494963073"
@@ -1348,14 +1348,14 @@
       "sku": "50022GCH",
       "product": "Arinta Organic Cotton Duvet Cover - Charcoal",
       "variant": "Charcoal / Superking (220cmx260cm)",
-      "price": 114.99,
+      "price": 86.24,
       "rrp": 114.99,
       "currency": "GBP",
       "prevPrice": 114.99,
-      "changeType": "up",
-      "pct": 33.33719851576994,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002174102095836,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494995841,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494995841"
@@ -1364,14 +1364,14 @@
       "sku": "50019GMB",
       "product": "Arinta Organic Cotton Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Single (137cmx200cm)",
-      "price": 59.99,
+      "price": 44.99,
       "rrp": 59.99,
       "currency": "GBP",
       "prevPrice": 59.99,
-      "changeType": "up",
-      "pct": 33.34074238719715,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00416736122687,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492603777,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492603777"
@@ -1380,14 +1380,14 @@
       "sku": "50020GMB",
       "product": "Arinta Organic Cotton Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Double (200cmx200cm)",
-      "price": 89.99,
+      "price": 67.49,
       "rrp": 89.99,
       "currency": "GBP",
       "prevPrice": 89.99,
-      "changeType": "up",
-      "pct": 33.33827233664247,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002778086454054,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492636545,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492636545"
@@ -1396,14 +1396,14 @@
       "sku": "50021GMB",
       "product": "Arinta Organic Cotton Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / King (220cmx225cm)",
-      "price": 99.99,
+      "price": 74.99,
       "rrp": 99.99,
       "currency": "GBP",
       "prevPrice": 99.99,
-      "changeType": "up",
-      "pct": 33.33777837044939,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002500250025005,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492669313,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492669313"
@@ -1412,14 +1412,14 @@
       "sku": "50022GMB",
       "product": "Arinta Organic Cotton Duvet Cover - Midnight Blue",
       "variant": "Midnight Blue / Superking (220cmx260cm)",
-      "price": 114.99,
+      "price": 86.24,
       "rrp": 114.99,
       "currency": "GBP",
       "prevPrice": 114.99,
-      "changeType": "up",
-      "pct": 33.33719851576994,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.002174102095836,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492702081,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492702081"
@@ -1428,14 +1428,14 @@
       "sku": "10230GY",
       "product": "Wild and Wool Throw",
       "variant": "Lamb - Stone",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809951105,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809951105"
@@ -1444,14 +1444,14 @@
       "sku": "TH00052",
       "product": "Wild and Wool Throw",
       "variant": "Rabbit",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809885569,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809885569"
@@ -1460,14 +1460,14 @@
       "sku": "13038YB",
       "product": "Wild and Wool Throw",
       "variant": "Bee",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809197441,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809197441"
@@ -1476,14 +1476,14 @@
       "sku": "13037GI",
       "product": "Wild and Wool Throw",
       "variant": "Highland Cow",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809525121,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809525121"
@@ -1492,14 +1492,14 @@
       "sku": "TH00050",
       "product": "Wild and Wool Throw",
       "variant": "Horse - Latte",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809820033,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809820033"
@@ -1508,14 +1508,14 @@
       "sku": "10381NA",
       "product": "Wild and Wool Throw",
       "variant": "Lamb - Latte",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809852801,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809852801"
@@ -1524,14 +1524,14 @@
       "sku": "TH00051",
       "product": "Wild and Wool Throw",
       "variant": "Horse - Stone",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809918337,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809918337"
@@ -1540,14 +1540,14 @@
       "sku": "TH00049",
       "product": "Wild and Wool Throw",
       "variant": "Fox",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810049409,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810049409"
@@ -1556,14 +1556,14 @@
       "sku": "TH00054",
       "product": "Wild and Wool Throw",
       "variant": "Deer",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810114945,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810114945"
@@ -1572,14 +1572,14 @@
       "sku": "TH00053",
       "product": "Wild and Wool Throw",
       "variant": "Hedgehog",
-      "price": 74.99,
+      "price": 56.24,
       "rrp": 74.99,
       "currency": "GBP",
       "prevPrice": 74.99,
-      "changeType": "up",
-      "pct": 33.33926031294451,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00333377783704,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810147713,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810147713"
@@ -1588,14 +1588,14 @@
       "sku": "WW1006",
       "product": "Pale Pink Herringbone Wool Throw - Wide Width",
       "variant": "Pale Pink",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "pale-pink-herringbone-wool-throw-extra-large",
       "variantId": 55511522574721,
       "url": "https://www.thewoolroom.com/en-gb/products/pale-pink-herringbone-wool-throw-extra-large?variant=55511522574721"
@@ -1604,14 +1604,14 @@
       "sku": "WW1005",
       "product": "Natural Herringbone Wool Throw - Wide Width",
       "variant": "Natural",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "natural-herringbone-wool-throw-extra-large",
       "variantId": 55511522181505,
       "url": "https://www.thewoolroom.com/en-gb/products/natural-herringbone-wool-throw-extra-large?variant=55511522181505"
@@ -1620,14 +1620,14 @@
       "sku": "WW1004",
       "product": "Vintage Grey Herringbone Wool Throw - Wide Width",
       "variant": "Vintage Grey",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "vintage-grey-herringbone-wool-throw-extra-large",
       "variantId": 55511520575873,
       "url": "https://www.thewoolroom.com/en-gb/products/vintage-grey-herringbone-wool-throw-extra-large?variant=55511520575873"
@@ -1636,14 +1636,14 @@
       "sku": "WW1003",
       "product": "Light Sage Herringbone Wool Throw - Wide Width",
       "variant": "Light Sage",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "light-sage-herringbone-wool-throw-extra-large",
       "variantId": 55511520313729,
       "url": "https://www.thewoolroom.com/en-gb/products/light-sage-herringbone-wool-throw-extra-large?variant=55511520313729"
@@ -1652,14 +1652,14 @@
       "sku": "WW1002",
       "product": "Navy Herringbone Wool Throw - Wide Width",
       "variant": "Navy Blue",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "navy-herringbone-wool-throw-extra-large",
       "variantId": 55511518609793,
       "url": "https://www.thewoolroom.com/en-gb/products/navy-herringbone-wool-throw-extra-large?variant=55511518609793"
@@ -1668,14 +1668,14 @@
       "sku": "WW1001",
       "product": "Lavender Herringbone Wool Throw - Wide Width",
       "variant": "Lavender",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "lavender-herringbone-wool-throw-extra-large",
       "variantId": 55511514415489,
       "url": "https://www.thewoolroom.com/en-gb/products/lavender-herringbone-wool-throw-extra-large?variant=55511514415489"
@@ -1684,14 +1684,14 @@
       "sku": "WW1000",
       "product": "Duck Egg Blue Herringbone Wool Throw - Wide Width",
       "variant": "Duck Egg",
-      "price": 119.99,
+      "price": 89.99,
       "rrp": 119.99,
       "currency": "GBP",
       "prevPrice": 119.99,
-      "changeType": "up",
-      "pct": 33.3370374486054,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25.00208350695892,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "duck-egg-blue-herringbone-wool-throw-extra-large",
       "variantId": 55509386002817,
       "url": "https://www.thewoolroom.com/en-gb/products/duck-egg-blue-herringbone-wool-throw-extra-large?variant=55509386002817"
@@ -1700,14 +1700,14 @@
       "sku": "CHMTS",
       "product": "Cheviot Latex & Wool Mattress Topper",
       "variant": "Single (90x190 cm)",
-      "price": 999,
+      "price": 749.25,
       "rrp": 999,
       "currency": "GBP",
       "prevPrice": 999,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634261889,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634261889"
@@ -1716,14 +1716,14 @@
       "sku": "CHMTSD",
       "product": "Cheviot Latex & Wool Mattress Topper",
       "variant": "Small Double (120x190 cm)",
-      "price": 1299,
+      "price": 974.25,
       "rrp": 1299,
       "currency": "GBP",
       "prevPrice": 1299,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634294657,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634294657"
@@ -1732,14 +1732,14 @@
       "sku": "CHMTD",
       "product": "Cheviot Latex & Wool Mattress Topper",
       "variant": "Double (135x190 cm)",
-      "price": 1299,
+      "price": 974.25,
       "rrp": 1299,
       "currency": "GBP",
       "prevPrice": 1299,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634327425,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634327425"
@@ -1748,14 +1748,14 @@
       "sku": "CHMTK",
       "product": "Cheviot Latex & Wool Mattress Topper",
       "variant": "King (150cmx200cm)",
-      "price": 1399,
+      "price": 1049.25,
       "rrp": 1399,
       "currency": "GBP",
       "prevPrice": 1399,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634360193,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634360193"
@@ -1764,14 +1764,14 @@
       "sku": "CHMTSK",
       "product": "Cheviot Latex & Wool Mattress Topper",
       "variant": "Superking (180x200 cm)",
-      "price": 1599,
+      "price": 1199.25,
       "rrp": 1599,
       "currency": "GBP",
       "prevPrice": 1599,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634392961,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634392961"
@@ -1780,14 +1780,14 @@
       "sku": "RYMTS",
       "product": "Ryeland Thick Wool Mattress Topper",
       "variant": "Single (90x190 cm)",
-      "price": 819,
+      "price": 614.25,
       "rrp": 819,
       "currency": "GBP",
       "prevPrice": 819,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377393537,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377393537"
@@ -1796,14 +1796,14 @@
       "sku": "RYMTSD",
       "product": "Ryeland Thick Wool Mattress Topper",
       "variant": "Small Double (120x190 cm)",
-      "price": 999,
+      "price": 749.25,
       "rrp": 999,
       "currency": "GBP",
       "prevPrice": 999,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377590145,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377590145"
@@ -1812,14 +1812,14 @@
       "sku": "RYMTD",
       "product": "Ryeland Thick Wool Mattress Topper",
       "variant": "Double (135x190 cm)",
-      "price": 999,
+      "price": 749.25,
       "rrp": 999,
       "currency": "GBP",
       "prevPrice": 999,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377426305,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377426305"
@@ -1828,14 +1828,14 @@
       "sku": "RYMTK",
       "product": "Ryeland Thick Wool Mattress Topper",
       "variant": "King (150cmx200cm)",
-      "price": 1099,
+      "price": 824.25,
       "rrp": 1099,
       "currency": "GBP",
       "prevPrice": 1099,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377459073,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377459073"
@@ -1844,14 +1844,14 @@
       "sku": "RYMTSK",
       "product": "Ryeland Thick Wool Mattress Topper",
       "variant": "Superking (180x200 cm)",
-      "price": 1219,
+      "price": 914.25,
       "rrp": 1219,
       "currency": "GBP",
       "prevPrice": 1219,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-09-01T14:30:26.481Z",
-      "syncTs": "2026-09-21T09:35:28.346Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-09-21T16:11:32.568Z",
+      "syncTs": "2026-09-21T16:11:32.568Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377491841,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377491841"
@@ -1867,6 +1867,11 @@
       "price": 79.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 59.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM007MB_rrp": [
@@ -1886,6 +1891,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM008MB_rrp": [
@@ -1905,6 +1915,11 @@
       "price": 104.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 78.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM009MB_rrp": [
@@ -1924,6 +1939,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM010MB_rrp": [
@@ -1943,6 +1963,11 @@
       "price": 79.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 59.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM007CW_rrp": [
@@ -1962,6 +1987,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM008CW_rrp": [
@@ -1981,6 +2011,11 @@
       "price": 104.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 78.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM009CW_rrp": [
@@ -2000,6 +2035,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM010CW_rrp": [
@@ -2019,6 +2059,11 @@
       "price": 47.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 35.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50009GCH_rrp": [
@@ -2038,6 +2083,11 @@
       "price": 59.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 44.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50010GCH_rrp": [
@@ -2057,6 +2107,11 @@
       "price": 64.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 48.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50011GCH_rrp": [
@@ -2076,6 +2131,11 @@
       "price": 69.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 52.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50012GCH_rrp": [
@@ -2095,6 +2155,11 @@
       "price": 12.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 9.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50000GCH_rrp": [
@@ -2114,6 +2179,11 @@
       "price": 13.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 10.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50002GCH_rrp": [
@@ -2133,6 +2203,11 @@
       "price": 79.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 59.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM007LA_rrp": [
@@ -2152,6 +2227,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM008LA_rrp": [
@@ -2171,6 +2251,11 @@
       "price": 104.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 78.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM009LA_rrp": [
@@ -2190,6 +2275,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM010LA_rrp": [
@@ -2209,6 +2299,11 @@
       "price": 19.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 14.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM001LA_rrp": [
@@ -2228,6 +2323,11 @@
       "price": 22.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 17.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM002LA_rrp": [
@@ -2247,6 +2347,11 @@
       "price": 19.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 14.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM001MB_rrp": [
@@ -2266,6 +2371,11 @@
       "price": 22.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 17.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM002MB_rrp": [
@@ -2285,6 +2395,11 @@
       "price": 19.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 14.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM001CW_rrp": [
@@ -2304,6 +2419,11 @@
       "price": 22.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 17.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM002CW_rrp": [
@@ -2323,6 +2443,11 @@
       "price": 47.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 35.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50009GMB_rrp": [
@@ -2342,6 +2467,11 @@
       "price": 59.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 44.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50010GMB_rrp": [
@@ -2361,6 +2491,11 @@
       "price": 64.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 48.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50011GMB_rrp": [
@@ -2380,6 +2515,11 @@
       "price": 69.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 52.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50012GMB_rrp": [
@@ -2399,6 +2539,11 @@
       "price": 12.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 9.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50000GMB_rrp": [
@@ -2418,6 +2563,11 @@
       "price": 13.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 10.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50002GMB_rrp": [
@@ -2437,6 +2587,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM003LA_rrp": [
@@ -2456,6 +2611,11 @@
       "price": 144.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 108.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM004LA_rrp": [
@@ -2475,6 +2635,11 @@
       "price": 159.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 119.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM005LA_rrp": [
@@ -2494,6 +2659,11 @@
       "price": 184.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 138.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM006LA_rrp": [
@@ -2513,6 +2683,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM003MB_rrp": [
@@ -2532,6 +2707,11 @@
       "price": 144.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 108.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM004MB_rrp": [
@@ -2551,6 +2731,11 @@
       "price": 159.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 119.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM005MB_rrp": [
@@ -2570,6 +2755,11 @@
       "price": 184.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 138.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM006MB_rrp": [
@@ -2589,6 +2779,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM003CW_rrp": [
@@ -2608,6 +2803,11 @@
       "price": 144.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 108.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM004CW_rrp": [
@@ -2627,6 +2827,11 @@
       "price": 159.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 119.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM005CW_rrp": [
@@ -2646,6 +2851,11 @@
       "price": 184.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 138.74,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "BLM006CW_rrp": [
@@ -2665,6 +2875,11 @@
       "price": 59.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 44.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50019GCH_rrp": [
@@ -2684,6 +2899,11 @@
       "price": 89.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 67.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50020GCH_rrp": [
@@ -2703,6 +2923,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50021GCH_rrp": [
@@ -2722,6 +2947,11 @@
       "price": 114.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 86.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50022GCH_rrp": [
@@ -2741,6 +2971,11 @@
       "price": 59.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 44.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50019GMB_rrp": [
@@ -2760,6 +2995,11 @@
       "price": 89.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 67.49,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50020GMB_rrp": [
@@ -2779,6 +3019,11 @@
       "price": 99.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 74.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50021GMB_rrp": [
@@ -2798,6 +3043,11 @@
       "price": 114.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 86.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "50022GMB_rrp": [
@@ -2836,6 +3086,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "10230GY_rrp": [
@@ -2860,6 +3115,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00052_rrp": [
@@ -2884,6 +3144,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "13038YB_rrp": [
@@ -2908,6 +3173,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "13037GI_rrp": [
@@ -2932,6 +3202,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00050_rrp": [
@@ -2956,6 +3231,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "10381NA_rrp": [
@@ -2980,6 +3260,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00051_rrp": [
@@ -3004,6 +3289,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00049_rrp": [
@@ -3028,6 +3318,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00054_rrp": [
@@ -3052,6 +3347,11 @@
       "price": 74.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 56.24,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "TH00053_rrp": [
@@ -3076,6 +3376,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1006_rrp": [
@@ -3100,6 +3405,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1005_rrp": [
@@ -3124,6 +3434,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1004_rrp": [
@@ -3148,6 +3463,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1003_rrp": [
@@ -3172,6 +3492,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1002_rrp": [
@@ -3196,6 +3521,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1001_rrp": [
@@ -3220,6 +3550,11 @@
       "price": 119.99,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 89.99,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "WW1000_rrp": [
@@ -3239,6 +3574,11 @@
       "price": 999,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 749.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "CHMTS_rrp": [
@@ -3258,6 +3598,11 @@
       "price": 1299,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 974.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "CHMTSD_rrp": [
@@ -3277,6 +3622,11 @@
       "price": 1299,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 974.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "CHMTD_rrp": [
@@ -3296,6 +3646,11 @@
       "price": 1399,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 1049.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "CHMTK_rrp": [
@@ -3315,6 +3670,11 @@
       "price": 1599,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 1199.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "CHMTSK_rrp": [
@@ -3334,6 +3694,11 @@
       "price": 819,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 614.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "RYMTS_rrp": [
@@ -3353,6 +3718,11 @@
       "price": 999,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 749.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "RYMTSD_rrp": [
@@ -3372,6 +3742,11 @@
       "price": 999,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 749.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "RYMTD_rrp": [
@@ -3391,6 +3766,11 @@
       "price": 1099,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 824.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "RYMTK_rrp": [
@@ -3410,6 +3790,11 @@
       "price": 1219,
       "currency": "GBP",
       "ts": "2026-09-01T14:30:26.481Z"
+    },
+    {
+      "price": 914.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "RYMTSK_rrp": [
@@ -15477,6 +15862,11 @@
       "price": 3309,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 2481.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISRT_rrp": [
@@ -15496,6 +15886,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIDRT_rrp": [
@@ -15515,6 +15910,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIKRT_rrp": [
@@ -15534,6 +15934,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKRT_rrp": [
@@ -15553,6 +15958,11 @@
       "price": 7719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5789.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIERT_rrp": [
@@ -15572,6 +15982,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISDRT_rrp": [
@@ -15591,6 +16006,11 @@
       "price": 7169,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5376.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKZLRT_rrp": [
@@ -15610,6 +16030,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEDRT_rrp": [
@@ -15629,6 +16054,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEKRT_rrp": [
@@ -15648,6 +16078,11 @@
       "price": 3309,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 2481.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISST_rrp": [
@@ -15667,6 +16102,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISDST_rrp": [
@@ -15686,6 +16126,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIDST_rrp": [
@@ -15705,6 +16150,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIKST_rrp": [
@@ -15724,6 +16174,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKST_rrp": [
@@ -15743,6 +16198,11 @@
       "price": 7169,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5376.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKZLST_rrp": [
@@ -15762,6 +16222,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEDST_rrp": [
@@ -15781,6 +16246,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEKST_rrp": [
@@ -15800,6 +16270,11 @@
       "price": 3309,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 2481.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISFT_rrp": [
@@ -15819,6 +16294,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISDFT_rrp": [
@@ -15838,6 +16318,11 @@
       "price": 4529,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3396.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIDFT_rrp": [
@@ -15857,6 +16342,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIKFT_rrp": [
@@ -15876,6 +16366,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKFT_rrp": [
@@ -15895,6 +16390,11 @@
       "price": 7169,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5376.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLISKZLFT_rrp": [
@@ -15914,6 +16414,11 @@
       "price": 4969,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 3726.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEDFT_rrp": [
@@ -15933,6 +16438,11 @@
       "price": 8719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 6539.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEZLFT_rrp": [
@@ -15952,6 +16462,11 @@
       "price": 8719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 6539.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEZLRT_rrp": [
@@ -15971,6 +16486,11 @@
       "price": 8719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 6539.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEZLST_rrp": [
@@ -15990,6 +16510,11 @@
       "price": 7719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5789.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEFT_rrp": [
@@ -16009,6 +16534,11 @@
       "price": 7719,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 5789.25,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEST_rrp": [
@@ -16028,6 +16558,11 @@
       "price": 5849,
       "currency": "GBP",
       "ts": "2026-09-08T19:15:21.224Z"
+    },
+    {
+      "price": 4386.75,
+      "currency": "GBP",
+      "ts": "2026-09-21T16:11:32.568Z"
     }
   ],
   "MLIEKFT_rrp": [
