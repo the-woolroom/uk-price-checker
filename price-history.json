@@ -11,42 +11,10 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-10-23T14:39:43.761Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "seconds-ryeland-woolly-topper-king-150x200cm",
       "variantId": 56433791435137,
       "url": "https://www.thewoolroom.com/en-gb/products/seconds-ryeland-woolly-topper-king-150x200cm?variant=56433791435137"
-    },
-    {
-      "sku": "AL261011",
-      "product": "Seconds, Isabella Sprung Bedstead, Superking 180cmx200cm, Moon, Herringbone, Deepdale, Heather,  U1464/EA02",
-      "variant": "superking (w180xl200 cm) / upholstered sprung inserts",
-      "price": 1511.6,
-      "rrp": 3779,
-      "currency": "GBP",
-      "prevPrice": 1511.6,
-      "changeType": "same",
-      "pct": null,
-      "changedAt": "2026-10-23T14:39:43.761Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
-      "handle": "seconds-isabella-sprung-bedstead-superking-180cmx200cm-moon-herringbone-deepdale-heather-u1464-ea02",
-      "variantId": 56433742348673,
-      "url": "https://www.thewoolroom.com/en-gb/products/seconds-isabella-sprung-bedstead-superking-180cmx200cm-moon-herringbone-deepdale-heather-u1464-ea02?variant=56433742348673"
-    },
-    {
-      "sku": "AL261009",
-      "product": "Seconds, Standen, Superking 180x200cm, Regular Tension,Zip & Link",
-      "variant": "Superking (w180xl200 cm) / Regular / Yes",
-      "price": 1499.6,
-      "rrp": 3749,
-      "currency": "GBP",
-      "prevPrice": 1499.6,
-      "changeType": "same",
-      "pct": null,
-      "changedAt": "2026-10-15T19:41:09.957Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
-      "handle": "seconds-standen-superking-180x200cm-regular-tension-zip-link",
-      "variantId": 56400138371457,
-      "url": "https://www.thewoolroom.com/en-gb/products/seconds-standen-superking-180x200cm-regular-tension-zip-link?variant=56400138371457"
     },
     {
       "sku": "AL261004",
@@ -59,7 +27,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-10-15T19:41:09.957Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "seconds-amelia-sprung-bedstead-king-150x200cm-covered-in-main-moon-inspired-skylon-denim-u1866-d08-buttons-piping-moon-earth-cobalt-u1116-ax26-black-tapered-feet",
       "variantId": 56399905849729,
       "url": "https://www.thewoolroom.com/en-gb/products/seconds-amelia-sprung-bedstead-king-150x200cm-covered-in-main-moon-inspired-skylon-denim-u1866-d08-buttons-piping-moon-earth-cobalt-u1116-ax26-black-tapered-feet?variant=56399905849729"
@@ -75,7 +43,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-10-05T22:18:51.404Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "stoneywell-floor-standing-headboard-king-dark-grey-seconds",
       "variantId": 56357586862465,
       "url": "https://www.thewoolroom.com/en-gb/products/stoneywell-floor-standing-headboard-king-dark-grey-seconds?variant=56357586862465"
@@ -91,7 +59,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-10-05T22:18:51.404Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "goddards-bed-fix-headboard-double-hemlock-seconds",
       "variantId": 56240957194625,
       "url": "https://www.thewoolroom.com/en-gb/products/goddards-bed-fix-headboard-double-hemlock-seconds?variant=56240957194625"
@@ -107,7 +75,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "stoneywell-headboard-floor-standing-superking-dark-grey-seconds",
       "variantId": 56186720780673,
       "url": "https://www.thewoolroom.com/en-gb/products/stoneywell-headboard-floor-standing-superking-dark-grey-seconds?variant=56186720780673"
@@ -123,7 +91,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "sophia-slatted-bedstead-double-135x190cm-elemental-earth-seconds",
       "variantId": 56186714947969,
       "url": "https://www.thewoolroom.com/en-gb/products/sophia-slatted-bedstead-double-135x190cm-elemental-earth-seconds?variant=56186714947969"
@@ -139,7 +107,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "audley-divan-superking-180x200cm-juniper-seconds",
       "variantId": 56186675921281,
       "url": "https://www.thewoolroom.com/en-gb/products/audley-divan-superking-180x200cm-juniper-seconds?variant=56186675921281"
@@ -155,7 +123,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "audley-divan-double-135x190-walnut-seconds",
       "variantId": 56186649837953,
       "url": "https://www.thewoolroom.com/en-gb/products/audley-divan-double-135x190-walnut-seconds?variant=56186649837953"
@@ -171,7 +139,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "isabella-sprung-bedstead-king-150x200cm-earth-pacific-u1116-aw25-country-oak-seconds",
       "variantId": 56186626441601,
       "url": "https://www.thewoolroom.com/en-gb/products/isabella-sprung-bedstead-king-150x200cm-earth-pacific-u1116-aw25-country-oak-seconds?variant=56186626441601"
@@ -187,7 +155,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "broadway-headboard-bed-fix-superking-light-grey-seconds",
       "variantId": 56186592887169,
       "url": "https://www.thewoolroom.com/en-gb/products/broadway-headboard-bed-fix-superking-light-grey-seconds?variant=56186592887169"
@@ -203,7 +171,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-01T09:09:33.515Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "standen-single-xl-90x200cm-regular-tension-seconds",
       "variantId": 56205120897409,
       "url": "https://www.thewoolroom.com/en-gb/products/standen-single-xl-90x200cm-regular-tension-seconds?variant=56205120897409"
@@ -219,7 +187,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "holcombe-single-90x190cm-regular-tension-seconds",
       "variantId": 56184200626561,
       "url": "https://www.thewoolroom.com/en-gb/products/holcombe-single-90x190cm-regular-tension-seconds?variant=56184200626561"
@@ -235,7 +203,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-28T15:53:53.820Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-superking-180x200cm-regular-tension-zip-link-seconds",
       "variantId": 56184164221313,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-superking-180x200cm-regular-tension-zip-link-seconds?variant=56184164221313"
@@ -251,7 +219,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "storaway-divan-king-150x200cm-dark-grey-seconds",
       "variantId": 56237228458369,
       "url": "https://www.thewoolroom.com/en-gb/products/storaway-divan-king-150x200cm-dark-grey-seconds?variant=56237228458369"
@@ -267,7 +235,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "sophia-sprung-bedstead-king-150x200cm-country-oak-feet-moon-earth-sage-u1116-bf23-seconds",
       "variantId": 56237175669121,
       "url": "https://www.thewoolroom.com/en-gb/products/sophia-sprung-bedstead-king-150x200cm-country-oak-feet-moon-earth-sage-u1116-bf23-seconds?variant=56237175669121"
@@ -283,7 +251,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-09-08T19:15:21.224Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "audley-divan-double-135x190cm-hemlock-seconds",
       "variantId": 56237125566849,
       "url": "https://www.thewoolroom.com/en-gb/products/audley-divan-double-135x190cm-hemlock-seconds?variant=56237125566849"
@@ -299,7 +267,7 @@
       "changeType": "up",
       "pct": 19.999999999999996,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732907905,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732907905"
@@ -315,7 +283,7 @@
       "changeType": "up",
       "pct": 19.999999999999996,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640403841,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640403841"
@@ -331,7 +299,7 @@
       "changeType": "up",
       "pct": 19.999999999999996,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640436609,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640436609"
@@ -347,7 +315,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732645761,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732645761"
@@ -363,7 +331,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640338305,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640338305"
@@ -379,7 +347,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640371073,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640371073"
@@ -395,7 +363,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236732776833,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236732776833"
@@ -411,7 +379,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 54397775118721,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=54397775118721"
@@ -427,7 +395,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 54397775708545,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=54397775708545"
@@ -443,7 +411,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733038977,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733038977"
@@ -459,7 +427,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733071745,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733071745"
@@ -475,7 +443,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640469377,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640469377"
@@ -491,7 +459,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733104513,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733104513"
@@ -507,7 +475,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236640502145,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236640502145"
@@ -523,7 +491,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236733137281,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236733137281"
@@ -539,7 +507,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952486273,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952486273"
@@ -555,7 +523,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952519041,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952519041"
@@ -571,7 +539,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952551809,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952551809"
@@ -587,7 +555,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952584577,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952584577"
@@ -603,7 +571,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952617345,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952617345"
@@ -619,7 +587,7 @@
       "changeType": "up",
       "pct": 20.000000000000007,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236952650113,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236952650113"
@@ -635,7 +603,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957139329,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957139329"
@@ -651,7 +619,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957204865,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957204865"
@@ -667,7 +635,7 @@
       "changeType": "up",
       "pct": 20,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236957270401,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236957270401"
@@ -683,7 +651,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236962972033,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236962972033"
@@ -699,7 +667,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236963037569,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236963037569"
@@ -715,7 +683,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236963103105,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236963103105"
@@ -731,7 +699,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968051073,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968051073"
@@ -747,7 +715,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968116609,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968116609"
@@ -763,7 +731,7 @@
       "changeType": "up",
       "pct": 20.00000000000001,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lindisfarne-wool-mattress",
       "variantId": 56236968182145,
       "url": "https://www.thewoolroom.com/en-gb/products/lindisfarne-wool-mattress?variant=56236968182145"
@@ -779,7 +747,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054717940097,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054717940097"
@@ -795,7 +763,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054717972865,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054717972865"
@@ -811,7 +779,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054718005633,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054718005633"
@@ -827,7 +795,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054718038401,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054718038401"
@@ -843,7 +811,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054812410241,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054812410241"
@@ -859,7 +827,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:28:21.477Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "woolroom-gift-card-uk",
       "variantId": 56054812443009,
       "url": "https://www.thewoolroom.com/en-gb/products/woolroom-gift-card-uk?variant=56054812443009"
@@ -875,7 +843,7 @@
       "changeType": "up",
       "pct": 33.33888981496915,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617791361,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617791361"
@@ -891,7 +859,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617824129,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617824129"
@@ -907,7 +875,7 @@
       "changeType": "up",
       "pct": 33.33756667513335,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617856897,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617856897"
@@ -923,7 +891,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue",
       "variantId": 55757617889665,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-midnight-blue?variant=55757617889665"
@@ -939,7 +907,7 @@
       "changeType": "up",
       "pct": 33.33888981496915,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617037697,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617037697"
@@ -955,7 +923,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617070465,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617070465"
@@ -971,7 +939,7 @@
       "changeType": "up",
       "pct": 33.33756667513335,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617103233,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617103233"
@@ -987,7 +955,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white",
       "variantId": 55757617136001,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-cloud-white?variant=55757617136001"
@@ -1003,7 +971,7 @@
       "changeType": "up",
       "pct": 33.3425951653237,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909216129,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909216129"
@@ -1019,7 +987,7 @@
       "changeType": "up",
       "pct": 33.34074238719715,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909248897,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909248897"
@@ -1035,7 +1003,7 @@
       "changeType": "up",
       "pct": 33.34017234304471,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909281665,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909281665"
@@ -1051,7 +1019,7 @@
       "changeType": "up",
       "pct": 33.33968374928556,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal",
       "variantId": 55756909314433,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-charcoal?variant=55756909314433"
@@ -1067,7 +1035,7 @@
       "changeType": "up",
       "pct": 33.36755646817248,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-pillow-case-charcoal",
       "variantId": 55756442960257,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-charcoal?variant=55756442960257"
@@ -1083,7 +1051,7 @@
       "changeType": "up",
       "pct": 33.36510962821735,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-pillow-case-charcoal",
       "variantId": 55756442993025,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-charcoal?variant=55756442993025"
@@ -1099,7 +1067,7 @@
       "changeType": "up",
       "pct": 33.33888981496915,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618348417,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618348417"
@@ -1115,7 +1083,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618381185,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618381185"
@@ -1131,7 +1099,7 @@
       "changeType": "up",
       "pct": 33.33756667513335,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618413953,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618413953"
@@ -1147,7 +1115,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte",
       "variantId": 55757618446721,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-fitted-sheet-latte?variant=55757618446721"
@@ -1163,7 +1131,7 @@
       "changeType": "up",
       "pct": 33.35557038025349,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-latte",
       "variantId": 55757592985985,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-latte?variant=55757592985985"
@@ -1179,7 +1147,7 @@
       "changeType": "up",
       "pct": 33.35266821345708,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-latte",
       "variantId": 55757593018753,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-latte?variant=55757593018753"
@@ -1195,7 +1163,7 @@
       "changeType": "up",
       "pct": 33.35557038025349,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-midnight-blue",
       "variantId": 55757590593921,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-midnight-blue?variant=55757590593921"
@@ -1211,7 +1179,7 @@
       "changeType": "up",
       "pct": 33.35266821345708,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-midnight-blue",
       "variantId": 55757590626689,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-midnight-blue?variant=55757590626689"
@@ -1227,7 +1195,7 @@
       "changeType": "up",
       "pct": 33.35557038025349,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-cloud-white",
       "variantId": 55757535478145,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-cloud-white?variant=55757535478145"
@@ -1243,7 +1211,7 @@
       "changeType": "up",
       "pct": 33.35266821345708,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-pillow-case-cloud-white",
       "variantId": 55757535510913,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-pillow-case-cloud-white?variant=55757535510913"
@@ -1259,7 +1227,7 @@
       "changeType": "up",
       "pct": 33.3425951653237,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766773633,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766773633"
@@ -1275,7 +1243,7 @@
       "changeType": "up",
       "pct": 33.34074238719715,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766806401,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766806401"
@@ -1291,7 +1259,7 @@
       "changeType": "up",
       "pct": 33.34017234304471,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766839169,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766839169"
@@ -1307,7 +1275,7 @@
       "changeType": "up",
       "pct": 33.33968374928556,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue",
       "variantId": 55756766871937,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-fitted-sheet-midnight-blue?variant=55756766871937"
@@ -1323,7 +1291,7 @@
       "changeType": "up",
       "pct": 33.36755646817248,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-pillow-case-midnight-blue",
       "variantId": 55756325126529,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-midnight-blue?variant=55756325126529"
@@ -1339,7 +1307,7 @@
       "changeType": "up",
       "pct": 33.36510962821735,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-pillow-case-midnight-blue",
       "variantId": 55756325159297,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-pillow-case-midnight-blue?variant=55756325159297"
@@ -1355,7 +1323,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600358785,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600358785"
@@ -1371,7 +1339,7 @@
       "changeType": "up",
       "pct": 33.3363987493103,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600391553,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600391553"
@@ -1387,7 +1355,7 @@
       "changeType": "up",
       "pct": 33.33611134261189,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600424321,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600424321"
@@ -1403,7 +1371,7 @@
       "changeType": "up",
       "pct": 33.33573590889433,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-latte",
       "variantId": 55757600457089,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-latte?variant=55757600457089"
@@ -1419,7 +1387,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598589313,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598589313"
@@ -1435,7 +1403,7 @@
       "changeType": "up",
       "pct": 33.3363987493103,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598622081,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598622081"
@@ -1451,7 +1419,7 @@
       "changeType": "up",
       "pct": 33.33611134261189,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598654849,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598654849"
@@ -1467,7 +1435,7 @@
       "changeType": "up",
       "pct": 33.33573590889433,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-midnight-blue",
       "variantId": 55757598687617,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-midnight-blue?variant=55757598687617"
@@ -1483,7 +1451,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596295553,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596295553"
@@ -1499,7 +1467,7 @@
       "changeType": "up",
       "pct": 33.3363987493103,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596328321,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596328321"
@@ -1515,7 +1483,7 @@
       "changeType": "up",
       "pct": 33.33611134261189,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596361089,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596361089"
@@ -1531,7 +1499,7 @@
       "changeType": "up",
       "pct": 33.33573590889433,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "mariana-linen-blend-duvet-cover-cloud-white",
       "variantId": 55757596393857,
       "url": "https://www.thewoolroom.com/en-gb/products/mariana-linen-blend-duvet-cover-cloud-white?variant=55757596393857"
@@ -1547,7 +1515,7 @@
       "changeType": "up",
       "pct": 33.34074238719715,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494897537,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494897537"
@@ -1563,7 +1531,7 @@
       "changeType": "up",
       "pct": 33.33827233664247,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494930305,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494930305"
@@ -1579,7 +1547,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494963073,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494963073"
@@ -1595,7 +1563,7 @@
       "changeType": "up",
       "pct": 33.33719851576994,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-charcoal",
       "variantId": 55756494995841,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-charcoal?variant=55756494995841"
@@ -1611,7 +1579,7 @@
       "changeType": "up",
       "pct": 33.34074238719715,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492603777,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492603777"
@@ -1627,7 +1595,7 @@
       "changeType": "up",
       "pct": 33.33827233664247,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492636545,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492636545"
@@ -1643,7 +1611,7 @@
       "changeType": "up",
       "pct": 33.33777837044939,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492669313,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492669313"
@@ -1659,7 +1627,7 @@
       "changeType": "up",
       "pct": 33.33719851576994,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "arinta-organic-cotton-duvet-cover-midnight-blue",
       "variantId": 55756492702081,
       "url": "https://www.thewoolroom.com/en-gb/products/arinta-organic-cotton-duvet-cover-midnight-blue?variant=55756492702081"
@@ -1675,7 +1643,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809951105,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809951105"
@@ -1691,7 +1659,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809885569,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809885569"
@@ -1707,7 +1675,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809197441,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809197441"
@@ -1723,7 +1691,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809525121,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809525121"
@@ -1739,7 +1707,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809820033,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809820033"
@@ -1755,7 +1723,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T09:06:40.624Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809852801,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809852801"
@@ -1771,7 +1739,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397809918337,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397809918337"
@@ -1787,7 +1755,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810049409,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810049409"
@@ -1803,7 +1771,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810114945,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810114945"
@@ -1819,7 +1787,7 @@
       "changeType": "up",
       "pct": 33.33926031294451,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "wild-and-wool-throw",
       "variantId": 54397810147713,
       "url": "https://www.thewoolroom.com/en-gb/products/wild-and-wool-throw?variant=54397810147713"
@@ -1835,7 +1803,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "pale-pink-herringbone-wool-throw-extra-large",
       "variantId": 55511522574721,
       "url": "https://www.thewoolroom.com/en-gb/products/pale-pink-herringbone-wool-throw-extra-large?variant=55511522574721"
@@ -1851,7 +1819,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "natural-herringbone-wool-throw-extra-large",
       "variantId": 55511522181505,
       "url": "https://www.thewoolroom.com/en-gb/products/natural-herringbone-wool-throw-extra-large?variant=55511522181505"
@@ -1867,7 +1835,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "vintage-grey-herringbone-wool-throw-extra-large",
       "variantId": 55511520575873,
       "url": "https://www.thewoolroom.com/en-gb/products/vintage-grey-herringbone-wool-throw-extra-large?variant=55511520575873"
@@ -1883,7 +1851,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "light-sage-herringbone-wool-throw-extra-large",
       "variantId": 55511520313729,
       "url": "https://www.thewoolroom.com/en-gb/products/light-sage-herringbone-wool-throw-extra-large?variant=55511520313729"
@@ -1899,7 +1867,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "navy-herringbone-wool-throw-extra-large",
       "variantId": 55511518609793,
       "url": "https://www.thewoolroom.com/en-gb/products/navy-herringbone-wool-throw-extra-large?variant=55511518609793"
@@ -1915,7 +1883,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "lavender-herringbone-wool-throw-extra-large",
       "variantId": 55511514415489,
       "url": "https://www.thewoolroom.com/en-gb/products/lavender-herringbone-wool-throw-extra-large?variant=55511514415489"
@@ -1931,7 +1899,7 @@
       "changeType": "up",
       "pct": 33.3370374486054,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "duck-egg-blue-herringbone-wool-throw-extra-large",
       "variantId": 55509386002817,
       "url": "https://www.thewoolroom.com/en-gb/products/duck-egg-blue-herringbone-wool-throw-extra-large?variant=55509386002817"
@@ -1947,7 +1915,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634261889,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634261889"
@@ -1963,7 +1931,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634294657,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634294657"
@@ -1979,7 +1947,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634327425,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634327425"
@@ -1995,7 +1963,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634360193,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634360193"
@@ -2011,7 +1979,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "cheviot-woolly-latex-topper",
       "variantId": 55448634392961,
       "url": "https://www.thewoolroom.com/en-gb/products/cheviot-woolly-latex-topper?variant=55448634392961"
@@ -2027,7 +1995,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377393537,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377393537"
@@ -2043,7 +2011,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377590145,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377590145"
@@ -2059,7 +2027,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377426305,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377426305"
@@ -2075,7 +2043,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377459073,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377459073"
@@ -2091,7 +2059,7 @@
       "changeType": "up",
       "pct": 33.33333333333333,
       "changedAt": "2026-10-21T14:50:33.785Z",
-      "syncTs": "2026-10-24T23:59:14.415Z",
+      "syncTs": "2026-10-25T08:56:22.836Z",
       "handle": "ryeland-woolly-topper",
       "variantId": 55448377491841,
       "url": "https://www.thewoolroom.com/en-gb/products/ryeland-woolly-topper?variant=55448377491841"
